@@ -8,32 +8,34 @@ name = "Jinlai Xu (徐锦来)"
 superuser = true
 
 # Role/position
-role = "PhD Student"
+role = "PhD Candidate"
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include Distributed Systems, Fog/Edge and Cloud Computing, Computer Vision and Robotics. "
+bio = "My research interests include Distributed Systems, Fog/Edge and Cloud Computing, and Distributed Systems. "
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "University of Pittsburgh", url = "" } ]
+organizations = [ { name = "University of Pittsburgh", url = "http://pitt.edu"  } ]
 
 # List your academic interests.
 interests = [
     "Fog/Edge Computing",
     "Cloud Computing",
+    "Distributed Systems", 
+    "Reinforcement Learning", 
     "Game Theory",
     "Computer Vision",
-	"Robotics"
+  "Robotics"
 ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "PhD in Infomation Science (Expected)"
   institution = "University of Pittsburgh"
-  year = 2020
+  year = 2021
 
 [[education.courses]]
-  course = "MEng in Software Engineering"
+  course = "M.Phil in Software Engineering"
   institution = "China University of Geosciences "
   year = 2015
 
@@ -100,7 +102,7 @@ link = "//github.com/xujinlai"
 +++
 
 
-Jinlai Xu is a PhD student of Information Science at University of Pittsburgh. His research interests include Distributed Systems, Fog/Edge and Cloud Computing, Computer Vision and Robotics. 
+Jinlai Xu is a PhD candidate of Information Science at University of Pittsburgh. His research interests include Distributed Systems, Fog/Edge and Cloud Computing. 
 His current advisor is [Balaji Palanisamy](http://www.sis.pitt.edu/bpalan/).
 
 Before coming to University of Pittsburgh, he graduated from China University of Geosciences and his undergraduate and graduate advisor is [Zhongwen Luo](http://xgxy.cug.edu.cn/rjgcx/lzw/indexe.htm).
