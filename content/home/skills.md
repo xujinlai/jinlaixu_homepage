@@ -1,45 +1,59 @@
----
-# An instance of the Featurette widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: featurette
++++
+# Feature/Skill widget.
+widget = "featurette"  # Do not modify this line!
+date = 2017-09-20T00:00:00
 
-# This file represents a page section.
-headless: true
+# Activate this widget? true/false
+active = true
 
-# Order that this section appears on the page.
-weight: 30
+title = "Skills"
+subtitle = ""
 
-title: Skills
-subtitle:
+# Order that this section will appear in.
+weight = 60
 
 # Showcase personal skills or business features.
-# - Add/remove as many `feature` blocks below as you like.
-# - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
-feature:
-- description: 90%
-  icon: r-project
-  icon_pack: fab
-  name: R
-- description: 100%
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+# 
+# Add/remove as many `[[feature]]` blocks below as you like.
+# 
+# Available icon packs and icons:
+# * fas - Font Awesome standard icons (see https://fontawesome.com/icons)
+# * fab - Font Awesome brand icons (see https://fontawesome.com/icons)
+# * ai - academic icons (see https://jpswalsh.github.io/academicons/)
 
-# Uncomment to use emoji icons.
-#- icon: ":smile:"
-#  icon_pack: "emoji"
-#  name: "Emojiness"
-#  description: "100%"  
+[[feature]]
+  icon = "java"
+  icon_pack = "fab"
+  name = "Java"
+  description = "100%"
+  
+[[feature]]
+  icon = "cloud"
+  icon_pack = "fas"
+  name = "Cloud Computing"
+  description = "100%"  
+  
+[[feature]]
+  icon = "poo-storm"
+  icon_pack = "fas"
+  name = "Stream Processing Engine"
+  description = "100%"
+  
+[[feature]]
+  icon = "broadcast-tower"
+  icon_pack = "fas"
+  name = "Edge Computing"
+  description = "100%"
+  
+[[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+  description = "80%"
 
-# Uncomment to use custom SVG icons.
-# Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
-# Reference the SVG icon name (without `.svg` extension) in the `icon` field.
-#- icon: "your-custom-icon-name"
-#  icon_pack: "custom"
-#  name: "Surfing"
-#  description: "90%"
----
+[[feature]]
+  icon = "r-project"
+  icon_pack = "fab"
+  name = "R"
+  description = "80%"
++++
