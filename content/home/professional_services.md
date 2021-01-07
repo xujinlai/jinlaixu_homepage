@@ -1,18 +1,32 @@
-+++
-# An example of using the custom widget to create your own homepage section.
-# To create more sections, duplicate this file and edit the values below as desired.
+---
+# An instance of the Blank widget.
+# Documentation: https://sourcethemes.com/academic/docs/page-builder/
+widget: blank
 
-date = "2016-04-20T00:00:00"
-draft = false
+# Activate this widget? true/false
+active: true
 
-title = "Professional Services"
-subtitle = ""
-widget = "custom"
+# This file represents a page section.
+headless: true
 
-# Order that this section will appear in.
-weight = 70
+# Order that this section appears on the page.
+weight: 15
 
-+++
+title: Professional Services
+subtitle:
+
+design:
+  columns: "1"
+  background:
+    image: headers/bubbles-wide.jpg
+    image_darken: 0.6
+    image_parallax: true
+    image_position: center
+    image_size: cover
+    text_color_light: true
+  spacing:
+    padding: ["20px", "0", "20px", "0"]
+---
 
 + **Journal Review**
     + Transactions on Services Computing (TSC)
