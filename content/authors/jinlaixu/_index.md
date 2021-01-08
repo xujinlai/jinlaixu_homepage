@@ -1,110 +1,73 @@
-+++
+---
 # About/Biography widget.
-
 # Display name
-name = "Jinlai Xu (徐锦来)"
+title: Jinlai Xu (徐锦来)
 
 # Is this the primary user of the site?
-superuser = true
+superuser: true
 
 # Role/position
-role = "PhD Candidate"
-
-# Short bio (displayed in user profile at end of posts)
-bio = "My research interests include Distributed Systems, Fog/Edge and Cloud Computing, and Distributed Systems. "
+role: PhD Candidate
 
 # Organizations/Affiliations
-#   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "University of Pittsburgh", url = "http://pitt.edu"  } ]
+organizations:
+- name: University of Pittsburgh
+  url: "https://pitt.edu"
 
-# List your academic interests.
-interests = [
-    "Fog/Edge Computing",
-    "Cloud Computing",
-    "Distributed Systems", 
-    "Reinforcement Learning", 
-    "Game Theory",
-    "Computer Vision",
-  "Robotics"
-]
+# Short bio (displayed in user profile at end of posts)
+bio: My research interests include Distributed Systems, Fog/Edge and Cloud Computing, and Distributed Systems.
 
-# List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "PhD in Infomation Science (Expected)"
-  institution = "University of Pittsburgh"
-  year = 2021
+interests:
+- Fog/Edge Computing
+- Cloud Computing
+- Distributed Systems
+- Reinforcement Learning
 
-[[education.courses]]
-  course = "M.Phil in Software Engineering"
-  institution = "China University of Geosciences "
-  year = 2015
+education:
+  courses:
+  - course: PhD in Infomation Science (Expected)
+    institution: University of Pittsburgh
+    year: 2021
+  - course: M.Phil in Software Engineering
+    institution: China University of Geosciences
+    year: 2015
+  - course: BEng in Software Engineering
+    institution: China University of Geosciences
+    year: 2012
 
-[[education.courses]]
-  course = "BEng in Software Engineering"
-  institution = "China University of Geosciences "
-  year = 2012
+# Social/Academic Networking
+# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
+#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+social:
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:jinlai.xu@pitt.edu'  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/jinlaixu
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/xujinlai
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=OQjl2aIAAAAJ
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Jinlai_Xu
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-0032-5481
+- icon: github
+  icon_pack: fab
+  link: https://github.com/xujinlai
  
- 
-   # Social/Academic Networking
-  #
-  # Icon pack "fa" includes the following social network icons:
-  #
-  #   twitter, weibo, linkedin, github, facebook, pinterest, google-plus,
-  #   youtube, instagram, soundcloud
-  #
-  #   For email icon, use "fa" icon pack, "envelope" icon, and
-  #   "mailto:your@email.com" as the link.
-  #
-  #   Full list: https://fortawesome.github.io/Font-Awesome/icons/
-  #
-  # Icon pack "ai" includes the following academic network icons:
-  #
-  #   google-scholar, arxiv, orcid, researchgate, mendeley
-  #
-  #   Full list: https://jpswalsh.github.io/academicons/
-
-
-[[social]]
-icon = "envelope"
-icon_pack = "fa"
-link = "mailto:jinlai.xu@pitt.edu"
-
-[[social]]
-icon = "linkedin"
-icon_pack = "fab"
-link = "//www.linkedin.com/in/jinlaixu"
-
-[[social]]
-icon = "twitter"
-icon_pack = "fab"
-link = "//twitter.com/xujinlai"
-
-[[social]]
-icon = "google-scholar"
-icon_pack = "ai"
-link = "https://scholar.google.com/citations?user=OQjl2aIAAAAJ"
-
-[[social]]
-icon = "researchgate"
-icon_pack = "ai"
-link = "https://www.researchgate.net/profile/Jinlai_Xu"
-
-[[social]]
-icon = "orcid"
-icon_pack = "ai"
-link = "https://orcid.org/0000-0003-0032-5481"
-
-[[social]]
-icon = "github"
-icon_pack = "fab"
-link = "//github.com/xujinlai"
- 
-+++
+---
 
 
 Jinlai Xu is a PhD candidate of Information Science at University of Pittsburgh. His research interests include Distributed Systems, Fog/Edge and Cloud Computing. 
 His current advisor is [Balaji Palanisamy](http://www.sis.pitt.edu/bpalan/).
 
-Before coming to University of Pittsburgh, he graduated from China University of Geosciences and his undergraduate and graduate advisor is [Zhongwen Luo](http://xgxy.cug.edu.cn/rjgcx/lzw/indexe.htm).
+Before coming to University of Pittsburgh, he graduated from China University of Geosciences and his undergraduate and graduate advisor is [Zhongwen Luo](http://grzy.cug.edu.cn/luozhongwen/en/index.htm).
 
 <a href="cv_XuJinlai.pdf" class="btn btn-info">Full Curriculum Vitae</a>

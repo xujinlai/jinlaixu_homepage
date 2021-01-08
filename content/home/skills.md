@@ -7,7 +7,7 @@ widget: featurette
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 60
 
 title: Skills
 subtitle:
@@ -34,18 +34,18 @@ feature:
   name: Edge Computing
 - description: 80%
   icon: python
-  icon_pack: fas
+  icon_pack: fab
   name: Python
 - description: 80%
   icon: r-project
-  icon_pack: fas
+  icon_pack: fab
   name: R
 
 # Uncomment to use emoji icons.
-- icon = ":smile:"
-  icon_pack = "emoji"
-  name = "Emojiness"
-  description = "100%"  
+# - icon = ":smile:"
+#   icon_pack = "emoji"
+#   name = "Emojiness"
+#   description = "100%"  
 
 # Uncomment to use custom SVG icons.
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.

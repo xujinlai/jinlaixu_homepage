@@ -10,22 +10,11 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 60
+weight: 50
 
 title: Teaching Experience
 subtitle:
 
-design:
-  columns: "1"
-  background:
-    image: headers/bubbles-wide.jpg
-    image_darken: 0.6
-    image_parallax: true
-    image_position: center
-    image_size: cover
-    text_color_light: true
-  spacing:
-    padding: ["20px", "0", "20px", "0"]
 ---
 
 + **Teaching Assistant** , September 2015 - Present
@@ -36,7 +25,7 @@ design:
 			+ Instructor: Prof. [Balaji Palanisamy](http://www.sis.pitt.edu/bpalan/)
 		+ Information Security & Privacy (Online Course) (2018 Fall)
 	    + Algorithm Design (2018 Fall) 
-			+ Instructor: Prof. [Hassan Karimi] (http://gis.sis.pitt.edu/)
+			+ Instructor: Prof. [Hassan Karimi](http://gis.sis.pitt.edu/)
 
 	
 + **Teaching Assistant** , September 2013 - January 2014

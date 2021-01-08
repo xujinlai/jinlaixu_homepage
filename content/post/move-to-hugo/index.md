@@ -1,11 +1,42 @@
-+++
-date = 2017-05-31
-lastmod = 2017-10-15
-draft = false
-tags = []
-title = "Move to Hugo"
-math = true
-+++
+---
+title: Move to Hugo
+subtitle: I have moved my homepage to Hugo which I think is the fastest static website generator. 
+
+# Summary for listings and search engines
+summary: I have moved my homepage to Hugo which I think is the fastest static website generator. 
+
+# Link this post with a project
+projects: []
+
+# Date published
+date: "2017-05-31T00:00:00Z"
+
+# Date updated
+lastmod: "2017-10-15T00:00:00Z"
+
+# Is this an unpublished draft?
+draft: false
+
+# Show this page in the Featured widget?
+featured: false
+
+# Featured image
+# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
+# image:
+#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+#   focal_point: ""
+#   placement: 2
+#   preview_only: false
+
+authors:
+- jinlaixu
+
+tags:
+- Hugo
+
+categories:
+- Tutorial
+---
 
 ## Intro
 I have moved my homepage to [Hugo](https://gohugo.io/) which I think is the fastest static website generator. 

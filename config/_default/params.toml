@@ -88,10 +88,11 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-  email = "jinlai.xu@pitt.edu"
-  address = "Information Sciences Bldg Room 410, 135 N Bellefield Ave, Pittsburgh, PA 15213, USA"
-  # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-  office_hours = """email to book an appointment"""
+email = "jinlai.xu@pitt.edu"
+# address = "Information Sciences Bldg Room 410, 135 N Bellefield Ave, Pittsburgh, PA 15213, USA"
+address = {street = "Information Sciences Bldg Room 410, 135 N Bellefield Ave", city = "Pittsburgh", region = "PA", postcode = "15213", country = "United States", country_code = "US"}
+# Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
+office_hours = ["email to book an appointment"]
   # phone = ""
   # skype = ""
   # telegram = ""
@@ -179,7 +180,7 @@ plugins_js  = []
   gravatar = false
 
   # Choose a shape for avatar images. Options: circle, square.
-  shape = "circle"
+  shape = "square"
 
 # Configuration of publication pages.
 [publications]
@@ -209,7 +210,7 @@ plugins_js  = []
   #   0: Disabled
   #   1: Disqus (https://disqus.com)
   #   2: Commento (https://commento.io)
-  engine = 1
+  engine = 0
 
   # Which page types are commentable?
   commentable = {page = true, post = true, docs = true, project = true, publication = true, talk = true}
@@ -276,7 +277,7 @@ plugins_js  = []
 ############################
 [cms]
   # See https://wowchemy.com/docs/install/
-  netlify_cms = true
+  netlify_cms = false
 
 ############################
 ## Icon Pack Extensions
