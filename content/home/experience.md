@@ -29,13 +29,9 @@ experience:
     date_start: "2015-09-01"
     date_end: ""
     description: |2- 
-      + Reviewed related literatures (mainly in Cloud Computing and Edge Computing)
-      + Focus on resource sharing problems in Cloud and Edge Computing
-      + Publish four papers on these topics:
-       - Cost-aware resource management for federated clouds using resource sharing contracts. In 10th IEEE International Conference on Cloud Computing (IEEE Cloud 2017), 2017. 
-       - Optimized contract-based model for resource allocation in federated geo-distributed clouds. IEEE Transactions on Services Computing, 2018.
-       - Zenith: Utility-aware re- source allocation for edge computing. In 1st IEEE International Conference on Edge Computing (IEEE Edge 2017), 2017.
-       - PADS: Privacy-preserving auction design for allocating dynamically priced cloud resources. In IEEE 3rd International Conference on Collaboration and Internet Computing (CIC), 2017.
+      + Reviewed related literatures (mainly in Cloud Computing, Edge Computing, and Stream Processing)
+      + Focus on resource management problems in Edge and Cloud Computing to achieve low-latency stream processing
+      + Publish papers on these topics
 
   - title: "Research Assistant"
     company: "China University of Geosciences"
