@@ -16,11 +16,6 @@ subtitle:
 #   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006
 
-# Experiences.
-#   Add/remove as many `[[experience]]` blocks below as you like.
-#   Required fields are `title`, `company`, and `date_start`.
-#   Leave `date_end` empty if it's your current employer.
-#   Begin/end multi-line descriptions with 3 quotes `"""`.
 experience:
   - title: "PhD student"
     company: "University of Pittsburgh"
@@ -33,13 +28,13 @@ experience:
       + Focus on resource management problems in Edge and Cloud Computing to achieve low-latency stream processing
       + Publish papers on these topics
 
-  - title: "Software Engineer Intern"
-    company: "Facebook"
-    company_url: ""
-    location: "1 Hacker Way • Menlo Park, CA, USA"
-    date_start: "2019-05-04"
-    date_end: "2019-07-26"
-    description: Software Engineer Intern in Stream Processing Team
+  # - title: "Software Engineer Intern"
+  #   company: "Facebook"
+  #   company_url: ""
+  #   location: "1 Hacker Way • Menlo Park, CA, USA"
+  #   date_start: "2019-05-04"
+  #   date_end: "2019-07-26"
+  #   description: Software Engineer Intern in Stream Processing Team
 
   - title: "Research Assistant"
     company: "China University of Geosciences"
