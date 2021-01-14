@@ -7,39 +7,31 @@ widget: featurette
 headless: true
 
 # Order that this section appears on the page.
-weight: 60
+weight: 20
 
-title: Skills
+title: Research Interests
 subtitle:
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 100%
-  icon: java
-  icon_pack: fab
-  name: Java
-- description: 100%
-  icon: cloud
-  icon_pack: fas
-  name: Cloud Computing
-- description: 100%
+- description: Low-latency Stream Processing/Resilience/Elasticity in Edge Computing
   icon: poo-storm
   icon_pack: fas
-  name: Stream Processing Engine
-- description: 100%
+  name: Stream Processing
+- description: Resource Allocation/Management/Sharing
   icon: broadcast-tower
   icon_pack: fas
   name: Edge Computing
-- description: 80%
-  icon: python
-  icon_pack: fab
-  name: Python
-- description: 80%
-  icon: r-project
-  icon_pack: fab
-  name: R
+- description: Resource Allocation/Management/Sharing
+  icon: cloud
+  icon_pack: fas
+  name: Cloud Computing
+- description: RL on Systems
+  icon: robot
+  icon_pack: fas
+  name: Reinforcement Learning
 
 # Uncomment to use emoji icons.
 # - icon = ":smile:"

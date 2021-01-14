@@ -22,16 +22,24 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 experience:
-  - title: ""
+  - title: "PhD student"
     company: "University of Pittsburgh"
     company_url: ""
     location: "Pittsburgh, PA, USA"
     date_start: "2015-09-01"
     date_end: ""
     description: |2- 
-      + Reviewed related literatures (mainly in Cloud Computing, Edge Computing, and Stream Processing)
+      + Reviewed related literatures (mainly in Cloud Computing, Edge Computing, Stream Processing, Reinforcement Learning)
       + Focus on resource management problems in Edge and Cloud Computing to achieve low-latency stream processing
       + Publish papers on these topics
+
+  - title: "Software Engineer Intern"
+    company: "Facebook"
+    company_url: ""
+    location: "1 Hacker Way • Menlo Park, CA, USA"
+    date_start: "2019-05"
+    date_end: "2019-07"
+    description: Software Engineer Intern in Stream Processing Team
 
   - title: "Research Assistant"
     company: "China University of Geosciences"
