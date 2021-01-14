@@ -37,8 +37,8 @@ experience:
     company: "Facebook"
     company_url: ""
     location: "1 Hacker Way • Menlo Park, CA, USA"
-    date_start: "2019-05"
-    date_end: "2019-07"
+    date_start: "2019-05-4"
+    date_end: "2019-07-26"
     description: Software Engineer Intern in Stream Processing Team
 
   - title: "Research Assistant"
