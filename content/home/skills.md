@@ -32,6 +32,10 @@ feature:
   icon: robot
   icon_pack: fas
   name: Reinforcement Learning
+- description: Blockchain
+  icon: ethereum
+  icon_pack: fab
+  name: Incentive Deisign for Edge Resource Sharing
 
 # Uncomment to use emoji icons.
 # - icon = ":smile:"
