@@ -15,12 +15,13 @@ organizations:
   url: "https://pitt.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Distributed Systems, Fog/Edge and Cloud Computing, and Distributed Systems.
+bio: My research interests include Distributed Systems, Fog/Edge and Cloud Computing, Stream Processing Optimization and Blockchain-based Techniques
 
 interests:
 - Fog/Edge Computing
 - Cloud Computing
 - Distributed Systems
+- Stream Processing Optimization
 - Reinforcement Learning
 
 education:
@@ -65,7 +66,7 @@ social:
 ---
 
 
-Jinlai Xu is a PhD candidate of Information Science at University of Pittsburgh. His research interests include Distributed Systems, Fog/Edge and Cloud Computing. 
+Jinlai Xu is a PhD candidate of Information Science at University of Pittsburgh. His research interests include Distributed Systems, Fog/Edge and Cloud Computing, Stream Processing Optimization and Blockchain-based Techniques. 
 His current advisor is [Balaji Palanisamy](http://www.sis.pitt.edu/bpalan/).
 
 Before coming to University of Pittsburgh, he graduated from China University of Geosciences and his undergraduate and graduate advisor is [Zhongwen Luo](http://grzy.cug.edu.cn/luozhongwen/en/index.htm).

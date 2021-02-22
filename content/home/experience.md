@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 60
 
-title: Experience
+title: Research Experience
 subtitle:
 
 # Date format for experience
@@ -17,14 +17,14 @@ subtitle:
 date_format: Jan 2006
 
 experience:
-  - title: "PhD student"
+  - title: "PhD Student"
     company: "University of Pittsburgh"
     company_url: ""
     location: "Pittsburgh, PA, USA"
     date_start: "2015-09-01"
     date_end: ""
     description: |2- 
-      + Reviewed related literatures (mainly in Cloud Computing, Edge Computing, Stream Processing, Reinforcement Learning)
+      + Reviewed related literatures (mainly in Cloud Computing, Edge Computing, Stream Processing, Reinforcement Learning and Blockchain-based Techniques)
       + Focus on resource management problems in Edge and Cloud Computing to achieve low-latency stream processing
       + Publish papers on these topics
 
