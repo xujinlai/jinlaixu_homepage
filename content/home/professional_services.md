@@ -23,7 +23,6 @@ subtitle:
     + Transactions on Services Computing (TSC)
     + Concurrency and Computation: Practice and Experience (CCPE)
     + International Journal of Cooperative Information Systems (IJCIS)
-    + International Journal of Intelligent Systems 
     + Information Systems Frontiers (ISFI) : IRI - Special Issue on Foundations of Reuse
     + PLOS ONE
     + TELKOMNIKA (Telecommunication, Computing, Electronics and Control)
