@@ -11,10 +11,10 @@ publication_types = ["1"]
 featured = false
 url_code = ""
 url_dataset = ""
-url_pdf = ""
+url_pdf = "https://www.researchgate.net/publication/351362901_Resilient_Stream_Processing_in_Edge_Computing"
 url_project = ""
 url_slides = ""
-url_video = ""
+url_video = "https://www.youtube.com/watch?v=XQcb9UBgR1Y"
 url_poster = ""
 url_preprint = ""
 url_source = ""
