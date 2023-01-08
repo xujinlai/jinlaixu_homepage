@@ -7,17 +7,19 @@ title: Jinlai Xu (徐锦来)
 superuser: true
 
 # Role/position
-role: PhD Candidate
+role: Researcher/Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: University of Pittsburgh
-  url: "https://pitt.edu"
+- name: Infrastructure System Lab, ByteDance Inc., US
+  url: "https://www.bytedance.com/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Distributed Systems, Fog/Edge and Cloud Computing, Stream Processing Optimization and Blockchain-based Techniques
 
 interests:
+- Big Model Training/Inference Framework
+- Serverless Computing
 - Fog/Edge Computing
 - Cloud Computing
 - Distributed Systems
@@ -26,7 +28,7 @@ interests:
 
 education:
   courses:
-  - course: PhD in Infomation Science (Expected)
+  - course: PhD in Infomation Science 
     institution: University of Pittsburgh
     year: 2021
   - course: M.Phil in Software Engineering
@@ -43,13 +45,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:jinlai.xu@pitt.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:jinlai.xu@bytedance.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/jinlaixu
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/xujinlai
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=OQjl2aIAAAAJ
@@ -66,8 +65,8 @@ social:
 ---
 
 
-Jinlai Xu is a PhD candidate of Information Science at University of Pittsburgh. His research interests include Distributed Systems, Fog/Edge and Cloud Computing, Stream Processing Optimization and Blockchain-based Techniques. 
-His current advisor is [Balaji Palanisamy](http://www.sis.pitt.edu/bpalan/).
+Jinlai Xu is a Researcher/Engineer at Infrastructure System Lab of ByteDance US. He is currently working on cutting-edge technologies which will evolve the infrastructure to a new generation, including but not limited to Next Generation ML/Big Data infra, Graph Learning/Computing, Cloud Native & Serverless Infra and Hyper-Scale Heterogeneous Cluster Management.  Before joining ByteDance, he got his PhD from University of Pittsburgh in 2021. His research interests include Big Model Training/Inference Framework, Serverless Computing, Distributed Systems, Fog/Edge and Cloud Computing, Stream Processing Optimization and Blockchain-based Techniques. 
+His PhD advisor is [Balaji Palanisamy](http://www.sis.pitt.edu/bpalan/).
 
 Before coming to University of Pittsburgh, he graduated from China University of Geosciences and his undergraduate and graduate advisor is [Zhongwen Luo](http://grzy.cug.edu.cn/luozhongwen/en/index.htm).
 

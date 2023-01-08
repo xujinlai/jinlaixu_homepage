@@ -88,11 +88,11 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "jinlai.xu@pitt.edu"
+email = "jinlai.xu@bytedance.com"
 # address = "Information Sciences Bldg Room 410, 135 N Bellefield Ave, Pittsburgh, PA 15213, USA"
-address = {street = "Information Sciences Bldg Room 410, 135 N Bellefield Ave", city = "Pittsburgh", region = "PA", postcode = "15213", country = "United States", country_code = "US"}
+address = {street = "KeyCenter, 601 108th Ave NE", city = "Bellevue", region = "WA", postcode = "98007", country = "United States", country_code = "US"}
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-office_hours = ["email to book an appointment"]
+# office_hours = ["email to book an appointment"]
   # phone = ""
   # skype = ""
   # telegram = ""
@@ -104,7 +104,7 @@ office_hours = ["email to book an appointment"]
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "40.447410", longitude = "-79.952636"}
+coordinates = {latitude = "47.616057", longitude = "-122.196775"}
 
 # Directions for visitors to locate you.
 # directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"

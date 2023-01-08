@@ -43,5 +43,5 @@ subtitle:
     +  [Third IEEE International Conference on Trust, Privacy and Security in Intelligent Systems, and Applications (TPS 2021)](http://www.sis.pitt.edu/lersais/conference/tps/2021/) 
     +  [Third IEEE International Conference on Cognitive Machine Intelligence (CogMI 2021)](http://www.sis.pitt.edu/lersais/conference/cogmi/2021/) 
     +  [International Workshop on Internet-scale Clouds and Big Data (ISCBD 2017)](http://iscbd2017.github.io/index.html)
-    +  [IEEE $18^{th}$ International Conference on Information Reuse and Integration (IEEE IRI 2017)](http://www.sis.pitt.edu/iri2017/)
+    +  [IEEE 18th International Conference on Information Reuse and Integration (IEEE IRI 2017)](http://www.sis.pitt.edu/iri2017/)
     +  [International Workshop on Internet-scale Clouds and Big Data (ISCBD 2016)](http://iscbd2016.github.io/index.html)
