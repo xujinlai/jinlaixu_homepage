@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: Research Interests
+title: Research Topics
 subtitle:
 
 # Showcase personal skills or business features.

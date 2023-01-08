@@ -25,6 +25,7 @@ interests:
 - Distributed Systems
 - Stream Processing Optimization
 - Reinforcement Learning
+- Blockchain
 
 education:
   courses:
@@ -65,9 +66,10 @@ social:
 ---
 
 
-Jinlai Xu is a Researcher/Engineer at Infrastructure System Lab of ByteDance US. He is currently working on cutting-edge technologies which will evolve the infrastructure to a new generation, including but not limited to Next Generation ML/Big Data infra, Graph Learning/Computing, Cloud Native & Serverless Infra and Hyper-Scale Heterogeneous Cluster Management.  Before joining ByteDance, he got his PhD from University of Pittsburgh in 2021. His research interests include Big Model Training/Inference Framework, Serverless Computing, Distributed Systems, Fog/Edge and Cloud Computing, Stream Processing Optimization and Blockchain-based Techniques. 
-His PhD advisor is [Balaji Palanisamy](http://www.sis.pitt.edu/bpalan/).
+Jinlai Xu is a Researcher/Engineer at Infrastructure System Lab of ByteDance US. He is currently working on cutting-edge technologies which will evolve the infrastructure to a new generation, including but not limited to Next Generation ML/Big Data infra, Graph Learning/Computing, Cloud Native & Serverless Infra and Hyper-Scale Heterogeneous Cluster Management.  
 
-Before coming to University of Pittsburgh, he graduated from China University of Geosciences and his undergraduate and graduate advisor is [Zhongwen Luo](http://grzy.cug.edu.cn/luozhongwen/en/index.htm).
+He got his PhD from University of Pittsburgh in 2021. His research interests include Big Model Training/Inference Framework, Serverless Computing, Distributed Systems, Fog/Edge and Cloud Computing, Stream Processing Optimization and Blockchain-based Techniques. 
+His PhD advisor is [Balaji Palanisamy](http://www.sis.pitt.edu/bpalan/).
+He got his bachelor and master from China University of Geosciences and his undergraduate and graduate advisor is [Zhongwen Luo](http://grzy.cug.edu.cn/luozhongwen/en/index.htm).
 
 <a href="cv_XuJinlai.pdf" class="btn btn-info">Full Curriculum Vitae</a>
