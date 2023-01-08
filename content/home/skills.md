@@ -21,8 +21,8 @@ feature:
   icon_pack: fab
   name: Big Model
 - description: Ray Project
-  icon: lambda
-  icon_pack: fas
+  icon: github
+  icon_pack: fab
   name: Serverless Computing
 - description: Low-latency Stream Processing/Resilience/Elasticity in Edge Computing
   icon: poo-storm
