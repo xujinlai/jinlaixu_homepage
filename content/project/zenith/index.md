@@ -13,7 +13,7 @@ image_preview: "Zenith-Intro.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags: ["machine-learning", "deep-learning"]`
-tags: ["edge", "game-theory"]
+tags: ["edge", "game-theory", "blockchain"]
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -32,7 +32,7 @@ In the Internet of Things(IoT) era, the demands for low-latency computing for ti
 
 *Zenith* decouples **resource allocation** and **service provisioning and management** at the edge and provides a novel model to allocate resources at the edge to maximize utility. Zenith aims at increasing the overall resource allocation efficiency by allowing resources to be allocated and shared in a latency-aware manner. 
 
-## What is the challenge? 
+## What is the challenge?
  + Fair and Efficient Resource Allocation across Geographically Distributed Edge Resources
  + Fast Service Discovery on Highly Distributed Micro Data Centers
 
@@ -53,7 +53,8 @@ In the Internet of Things(IoT) era, the demands for low-latency computing for ti
 **Publications**
 
  + Jinlai Xu, Balaji Palanisamy, Heiko Ludwig, Qingyang Wang (2017). [Zenith: Utility-aware Resource Allocation for Edge Computing](https://www.researchgate.net/publication/317097920_Zenith_Utility-aware_Resource_Allocation_for_Edge_Computing), IEEE Edge 2017.
- 
+ + Jinlai Xu, Balaji Palanisamy, Qingyang Wang, Heiko Ludwig, Sandeep Gopisetty (2022). [Decentralized Allocation of Geo-distributed Edge Resources using Smart Contracts](https://www.researchgate.net/publication/362142906_Decentralized_Allocation_of_Geo-distributed_Edge_Resources_using_Smart_Contracts), IEEE CCGrid 2022.
+
 **Slides**
 
 <iframe src="https://onedrive.live.com/embed?cid=E1DD6EDD2DA4DFBE&resid=E1DD6EDD2DA4DFBE%2121505&authkey=AK5qp4kx3NvYRag&em=2" width="600" height="450" frameborder="0" scrolling="no"></iframe>

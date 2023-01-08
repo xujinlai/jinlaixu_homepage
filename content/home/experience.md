@@ -17,14 +17,24 @@ subtitle:
 date_format: Jan 2006
 
 experience:
+  - title: "Researcher/Engineer"
+    company: "Infrastructure System Lab, ByteDance US"
+    company_url: ""
+    location: "Seattle, WA, USA"
+    date_start: "2022-01-10"
+    date_end: ""
+    description: |2- 
+      + Working on cutting-edge technologies which will evolve the infrastructure to a new generation, including but not limited to Next Generation ML/Big Data infra, Graph Learning/Computing, Cloud Native & Serverless Infra and Hyper-Scale Heterogeneous Cluster Management.
+      + Focus on projects related to serverless computing (Ray project), Graph Computing, Big Model training/inference/finetune Framework, etc. 
+
   - title: "PhD Student"
     company: "University of Pittsburgh"
     company_url: ""
     location: "Pittsburgh, PA, USA"
     date_start: "2015-09-01"
-    date_end: ""
+    date_end: "2021-12-08"
     description: |2- 
-      + Reviewed related literatures (mainly in Cloud Computing, Edge Computing, Stream Processing, Reinforcement Learning and Blockchain-based Techniques)
+      + Reviewed related literatures (mainly in Distributed Systems, Cloud Computing, Edge Computing, Stream Processing, Reinforcement Learning and Blockchain-based Techniques)
       + Focus on resource management problems in Edge and Cloud Computing to achieve low-latency stream processing
       + Publish papers on these topics
 

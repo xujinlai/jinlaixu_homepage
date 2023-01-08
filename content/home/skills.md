@@ -16,6 +16,14 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
+- description: Big Model training/inference/finetune Framework
+  icon: tiktok
+  icon_pack: fab
+  name: Big Model
+- description: Ray Project
+  icon: lambda
+  icon_pack: fas
+  name: Serverless Computing
 - description: Low-latency Stream Processing/Resilience/Elasticity in Edge Computing
   icon: poo-storm
   icon_pack: fas

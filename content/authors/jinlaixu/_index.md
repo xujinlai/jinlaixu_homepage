@@ -15,10 +15,10 @@ organizations:
   url: "https://www.bytedance.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Distributed Systems, Fog/Edge and Cloud Computing, Stream Processing Optimization and Blockchain-based Techniques
+bio: My research interests include Big Model Training/Inference/Finetune Framework, Serverless Computing, Distributed Systems, Fog/Edge and Cloud Computing, Stream Processing Optimization and Blockchain-based Techniques
 
 interests:
-- Big Model Training/Inference Framework
+- Big Model 
 - Serverless Computing
 - Fog/Edge Computing
 - Cloud Computing
@@ -68,7 +68,7 @@ social:
 
 Jinlai Xu is a Researcher/Engineer at Infrastructure System Lab of ByteDance US. He is currently working on cutting-edge technologies which will evolve the infrastructure to a new generation, including but not limited to Next Generation ML/Big Data infra, Graph Learning/Computing, Cloud Native & Serverless Infra and Hyper-Scale Heterogeneous Cluster Management.  
 
-He got his PhD from University of Pittsburgh in 2021. His research interests include Big Model Training/Inference Framework, Serverless Computing, Distributed Systems, Fog/Edge and Cloud Computing, Stream Processing Optimization and Blockchain-based Techniques. 
+He got his PhD from University of Pittsburgh in 2021. His research interests include Big Model Training/Inference/Finetune Framework, Serverless Computing, Distributed Systems, Fog/Edge and Cloud Computing, Stream Processing Optimization and Blockchain-based Techniques. 
 His PhD advisor is [Balaji Palanisamy](http://www.sis.pitt.edu/bpalan/).
 He got his bachelor and master from China University of Geosciences and his undergraduate and graduate advisor is [Zhongwen Luo](http://grzy.cug.edu.cn/luozhongwen/en/index.htm).
 

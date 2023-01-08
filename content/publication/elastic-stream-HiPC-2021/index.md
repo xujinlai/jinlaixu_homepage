@@ -8,7 +8,7 @@ math = false
 publication = "In 2021 IEEE 28th International Conference on High Performance Computing, Data, and Analytics (HiPC)"
 publication_short = "In IEEE HiPC 2021"
 publication_types = ["1"]
-featured = false
+featured = true
 url_code = ""
 url_dataset = ""
 url_pdf = "https://www.researchgate.net/publication/356067882_Model-based_Reinforcement_Learning_for_Elastic_Stream_Processing_in_Edge_Computing"
@@ -31,8 +31,7 @@ url_source = ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects = []`.
-# projects = 
-# - zenith
+projects = ["edge-stream"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
